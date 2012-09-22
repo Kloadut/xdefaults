@@ -1,9 +1,9 @@
 Xdefaults config file
 =====================
 
-Dependencies: rxvt-unicode-256color
+### Install
 
-## Install
+Dependencies: rxvt-unicode-256color, git, curl
 
 ```bash
 

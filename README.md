@@ -1,4 +1,4 @@
-xdefaults
-=========
+Xdefaults config file
+=====================
 
-URxvt + Font config
+Dependencies: rxvt-unicode-256color

@@ -1,0 +1,4 @@
+xdefaults
+=========
+
+URxvt + Font config
